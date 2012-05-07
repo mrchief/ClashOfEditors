@@ -1,7 +1,10 @@
-
-/backup.git
-/packages/AvalonEdit.4.1.0.8000
-/ClashOfEditors/bin
-/ClashOfEditors/obj
-/_ReSharper.ClashOfEditors
-/packages/repositories.config
+_ReSharper.*
+**.ReSharper
+bin
+obj
+**.user
+**.suo
+TestResults
+_UpgradeReport_Files
+UpgradeLog*.XML
+*ncrunch*
